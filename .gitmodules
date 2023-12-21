@@ -1,0 +1,3 @@
+[submodule "fish/.config/functions"]
+	path = fish/.config/functions
+	url = git@github.com:James-DeLorenzo/fish-functions.git
