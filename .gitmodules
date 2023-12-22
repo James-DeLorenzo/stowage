@@ -1,3 +1,6 @@
 [submodule "fish/.config/fish/functions"]
 	path = fish/.config/fish/functions
 	url = git@github.com:James-DeLorenzo/fish-functions.git
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:James-DeLorenzo/nvim-config.git
