@@ -1,0 +1,23 @@
+{
+    "accel_to_decel_factor": "75%",
+    "default_acceleration": "4000",
+    "enable_arc_fitting": "1",
+    "enable_support": "1",
+    "filename_format": "{input_filename_base}.gcode",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "initial_layer_infill_speed": "40",
+    "initial_layer_line_width": "0.48",
+    "initial_layer_speed": "30",
+    "is_custom_defined": "0",
+    "name": "Cust 0.20mm Standard @FirstForge",
+    "print_settings_id": "Cust 0.20mm Standard @FirstForge",
+    "skirt_loops": "1",
+    "sparse_infill_density": "5%",
+    "support_type": "tree(auto)",
+    "top_shell_layers": "3",
+    "top_surface_speed": "80",
+    "travel_acceleration": "4100",
+    "version": "1.8.0.0",
+    "wall_loops": "2"
+}
