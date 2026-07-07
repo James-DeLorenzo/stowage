@@ -1,4 +1,4 @@
 theme = BlulocoDark
-font-family = FiraCode Nerd Font Mono
-font-size = 14
-font-feature = +cv02, +cv25, +cv32, +ss02, +ss03, +ss04, +ss07, +ss09, +ss10, +zero
+font-family = JetBrainsMono NFM Regular
+font-size = 13
+font-feature = +cv03, +cv06, +cv07, +cv10, +cv14, +cv15, +ss20, +zero
